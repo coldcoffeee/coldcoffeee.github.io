@@ -191,4 +191,7 @@
     .contact-form{
         width: 100%;
     }
+    .btn-full{
+        margin-bottom: 10px;
+    }
 }
